@@ -1,5 +1,7 @@
 # Case study — Vallawok
 
+Samma case finns i samlingen [case-studies/vallawok](https://github.com/orangeelefant/case-studies/tree/main/vallawok).
+
 How [Vallawok](https://vallawok.se) works online — built and maintained by [Webraketen](https://webraketen.se).
 
 ## Om Vallawok
@@ -9,10 +11,11 @@ Vallawok är en omtyckt thairestaurang i Linköping sedan 2012, belägen på Wer
 → [vallawok.se](https://vallawok.se)
 
 ## Stack
-- Astro / Next.js
-- Netlify / Cloudflare
-- Resend · PostHog
+- WordPress
 
 ## Relaterat
-- **Byrå:** [webraketen.se](https://webraketen.se) · **Portfölj:** [github.com/Webraketen/portfolio](https://github.com/Webraketen/portfolio)
+- **Byrå:** [webraketen.se](https://webraketen.se) · **Portfölj:** [github.com/orangeelefant/portfolio](https://github.com/orangeelefant/portfolio)
 - **Systersajter:** [Städly](https://stadly.nu) · [Kraft & Rent](https://kraftrent.se) · [Theresas Städ](https://theresasstad.se) · [ES Sten och Anläggning](https://esstenochanlaggning.se) · [MS Entreprenad](https://msentreprenad.se) · [Tittis Städ](https://tittisstad.se)
+
+---
+**Webraketen på GitHub:** [Portfolio](https://github.com/orangeelefant/portfolio) · [Kundcase](https://github.com/orangeelefant/case-studies) · [Blue Pencil](https://github.com/orangeelefant/bluepencil) · [webraketen.se](https://webraketen.se)
