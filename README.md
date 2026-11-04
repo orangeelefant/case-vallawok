@@ -2,7 +2,7 @@
 
 Samma case finns i samlingen [case-studies/vallawok](https://github.com/orangeelefant/case-studies/tree/main/vallawok).
 
-How [Vallawok](https://vallawok.se) works online — built and maintained by [Webraketen](https://webraketen.se).
+How [Vallawok](https://vallawok.se) worked online in the version [Webraketen](https://webraketen.se) built, which is the version this case describes. The site now live at vallawok.se is run by Vallawok on WordPress, a platform Webraketen does not run.
 
 ## Om Vallawok
 
